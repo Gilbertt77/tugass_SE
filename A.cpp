@@ -5,6 +5,7 @@ int main(){
 	
 	int aa;
 	int bb;
+	int cc;
 	scanf("%d", &aa);
 	
 	char Englishlett[aa][110];
